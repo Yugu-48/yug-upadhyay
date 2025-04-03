@@ -1,4 +1,4 @@
 # yug-upadhyay
 Config files for my GitHub profile.
 <br>
-name=Yug Upadhyay
+name=Yug  Kapildev Upadhyay
